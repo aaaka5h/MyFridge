@@ -56,8 +56,6 @@ public class FridgeItem implements Writable {
     //          If expires today: return 0
     //          if expires in the future: return positive integer representing days til item expires
     //          if expired already: return negative integer representing days since item has expired
-    // this method references code from codegrepper.com
-    // URL: https://www.codegrepper.com/code-examples/java/get+days+between+two+dates+java+Localdate
     public int daysTilExpiry() {
         LocalDate expires = this.getExpiresOnLocalDate();
         LocalDate today = LocalDate.now();

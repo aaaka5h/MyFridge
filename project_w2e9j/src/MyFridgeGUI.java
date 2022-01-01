@@ -134,8 +134,6 @@ public class MyFridgeGUI extends JFrame {
 
     // EFFECTS: Adds a fridge image to desktop
     // MODIFIES: this
-    // this method references code from StackOverflow
-    // URL: https://stackoverflow.com/questions/18027833/adding-image-to-jframe
     private void displayFridgeImage() {
         fridgeImage.add(new JLabel(new ImageIcon(fridgeImageFile)));
     }

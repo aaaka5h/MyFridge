@@ -6,7 +6,7 @@ import java.util.Date;
 
 /**
  * Represents an event.
- * This class is taken from the Event class from AlarmSystem repository
+ * This class is modeled from the Event class from the AlarmSystem repository
  * URL: https://github.students.cs.ubc.ca/CPSC210/AlarmSystem
  */
 public class Event {
