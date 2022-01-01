@@ -1,6 +1,6 @@
-package persistence;
+package model.project_w2e9j.src.test;
 
-import model.FridgeItem;
+import model.project_w2e9j.src.FridgeItem;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 

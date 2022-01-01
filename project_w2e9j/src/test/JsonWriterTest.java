@@ -1,7 +1,9 @@
-package persistence;
+package model.project_w2e9j.src.test;
 
-import model.FridgeItem;
-import model.Fridge;
+import model.project_w2e9j.src.Fridge;
+import model.project_w2e9j.src.FridgeItem;
+import model.project_w2e9j.src.persistence.JsonReader;
+import model.project_w2e9j.src.persistence.JsonWriter;
 import org.json.JSONObject;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

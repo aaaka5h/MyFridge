@@ -1,4 +1,4 @@
-package model;
+package model.project_w2e9j.src;
 
 import java.util.ArrayList;
 import java.util.Collection;

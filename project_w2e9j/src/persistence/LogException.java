@@ -1,4 +1,4 @@
-package model;
+package model.project_w2e9j.src.persistence;
 
 /**
  * Represents the exception that can occur when

@@ -1,0 +1,35 @@
+{
+    "name": "myFridge",
+    "fridgeItems": [
+        {
+            "itemName": "bread",
+            "itemType": "grains",
+            "itemExpiresOn": "11/12/2021",
+            "itemPrice": 4.99
+        },
+        {
+            "itemName": "carrots",
+            "itemType": "vegetable",
+            "itemExpiresOn": "01/12/2021",
+            "itemPrice": 4.99
+        },
+        {
+            "itemName": "milk",
+            "itemType": "dairy",
+            "itemExpiresOn": "30/11/2021",
+            "itemPrice": 5.99
+        },
+        {
+            "itemName": "cheddar",
+            "itemType": "dairy",
+            "itemExpiresOn": "12/12/2021",
+            "itemPrice": 7.49
+        },
+        {
+            "itemName": "juice",
+            "itemType": "drink",
+            "itemExpiresOn": "11/11/2021",
+            "itemPrice": 4.99
+        }
+    ]
+}

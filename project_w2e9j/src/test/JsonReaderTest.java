@@ -1,15 +1,15 @@
-package persistence;
+package model.project_w2e9j.src.test;
 
-import model.Fridge;
-import model.FridgeItem;
-import org.json.JSONArray;
-import org.json.JSONObject;
+import model.project_w2e9j.src.Fridge;
+import model.project_w2e9j.src.FridgeItem;
+import model.project_w2e9j.src.persistence.JsonReader;
 import org.junit.jupiter.api.Test;
 
 import java.io.IOException;
 import java.util.List;
 
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.fail;
 
 // this class references code from JsonSerializationDemo, specifically code from the JsonReaderTest Class
 // URL: https://github.students.cs.ubc.ca/CPSC210/JsonSerializationDemo.git
@@ -52,13 +52,4 @@ class JsonReaderTest extends JsonTest {
             fail("Couldn't read from file");
         }
     }
-
-
-//    @Test
-//    void testAddFridgeItems() {
-//        JsonReader reader = new JsonReader("./data/testReaderFridgeWithEggsAndButter.json");
-//        JSONObject jsonObject = new JSONObject("./data/testReaderFridgeWithEggsAndButter.json");
-//        JSONArray jsonArray = jsonObject.getJSONArray("fridgeItems");
-//        reader.
-//    }
 }

@@ -1,5 +1,7 @@
-package model;
+package model.project_w2e9j.src.test;
 
+import model.project_w2e9j.src.Fridge;
+import model.project_w2e9j.src.FridgeItem;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 

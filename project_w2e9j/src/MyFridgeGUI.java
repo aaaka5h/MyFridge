@@ -1,11 +1,7 @@
-package ui;
+package model.project_w2e9j.src;
 
-import model.Event;
-import model.EventLog;
-import model.Fridge;
-import model.FridgeItem;
-import persistence.JsonReader;
-import persistence.JsonWriter;
+import model.project_w2e9j.src.persistence.JsonReader;
+import model.project_w2e9j.src.persistence.JsonWriter;
 
 import javax.swing.*;
 import java.awt.*;

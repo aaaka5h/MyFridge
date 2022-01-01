@@ -1,4 +1,4 @@
-package persistence;
+package model.project_w2e9j.src.persistence;
 
 import org.json.JSONObject;
 

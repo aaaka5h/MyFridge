@@ -1,8 +1,8 @@
-package model;
+package model.project_w2e9j.src;
 
+import model.project_w2e9j.src.persistence.Writable;
 import org.json.JSONArray;
 import org.json.JSONObject;
-import persistence.Writable;
 
 import java.time.LocalDate;
 import java.time.Period;

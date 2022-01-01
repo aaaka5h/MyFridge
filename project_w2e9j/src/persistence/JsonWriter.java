@@ -1,8 +1,8 @@
-package persistence;
+package model.project_w2e9j.src.persistence;
 
-import model.Event;
-import model.EventLog;
-import model.Fridge;
+import model.project_w2e9j.src.Event;
+import model.project_w2e9j.src.EventLog;
+import model.project_w2e9j.src.Fridge;
 import org.json.JSONObject;
 
 

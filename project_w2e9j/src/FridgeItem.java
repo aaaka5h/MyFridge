@@ -1,12 +1,11 @@
-package model;
+package model.project_w2e9j.src;
 
 import org.json.JSONObject;
-import persistence.Writable;
+import model.project_w2e9j.src.persistence.Writable;
 
 import java.time.LocalDate;
 import java.time.Period;
 import java.time.format.DateTimeFormatter;
-import java.util.ArrayList;
 
 // Represents an item with a name, food type, price, expiry date, and the Fridge it is located in
 public class FridgeItem implements Writable {
