@@ -15,3 +15,5 @@ This application will be useful to individuals who want to know exactly what ite
 prepare specific meals and for those who want to make sure none of their food expires and goes to waste. Users with many
 items in their fridge will benefit most as they can easily look at the application and see a list of every item in their
 fridge, instead of scouring their crowded fridge for specific items.
+
+Note: This is a class project made in CPSC 210 (Software Construction)
